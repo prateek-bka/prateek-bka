@@ -85,8 +85,10 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-bka&show_icons=true&theme=dark&locale=en" alt="prateek-bka" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-bka&show_icons=true&theme=dark&locale=en&layout=compact" alt="prateek-bka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-bka&show_icons=true&theme=dark&locale=en" alt="prateek-bka" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-bka&theme=dark" alt="prateek-bka" /></p>
