@@ -28,9 +28,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 👨‍💻 All of my projects are available at [https://prateek-bka.github.io/](https://prateek-bka.github.io/)
 
-- 📝 I regularly write articles on [React.js, Node.js, JavaScript](React.js, Node.js, JavaScript)
-
-- 💬 Ask me about **React.js, Node.js, JavaScript, HTML, CSS, Data Structures & Algorithms**
+- 📝 I regularly write articles on [Dev.to]([React.js, Node.js, JavaScript](https://dev.to/prateekbka))
 
 - 📫 How to reach me **prateek.bka@gmail.com**
 
