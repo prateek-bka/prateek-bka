@@ -18,20 +18,10 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
      - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
      <br />
      <br />
-        
-    - 👨‍💻 All of my projects are available at [https://prateek-bka.github.io/](https://prateek-bka.github.io/)
-
-    - 📝 I regularly write articles on [https://dev.to/prateekbka](https://dev.to/prateekbka)
-
-    - 💬 Ask me about **React.js, Node.js, JavaScript, HTML, CSS, Data Structures & Algorithms**
-
-    - 📫 How to reach me **prateek.bka@gmail.com**
-
-    - 📄 Know about my experiences [https://prateek-bka.github.io/Prateek_Agrawal_Resume.pdf](https://prateek-bka.github.io/Prateek_Agrawal_Resume.pdf)
-
-</h3>
     
- 
+   
+    
+</h3>
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek-bka" alt="prateek-bka" /></a> </p>
@@ -81,13 +71,28 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
     <a href="https://prateek-bka.github.io/">
         <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" />
     </a>
-    
-    <a href="https://medium.com/@prateek.bka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prateek.bka" height="30" width="40" /></a>
-    
-    <a href="https://dev.to/prateekbka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prateekbka" height="30" width="40" /></a>
-     
-   
+
 </p>
 <br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<a href="https://git.io/streak-stats" id="github-streak-stats">
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=prateek-bka&theme=dark&hide_border=true"
+                        alt="">
+                </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" id="github-top-langs">
+                    <picture>
+                        <source media="(prefers-color-scheme: radical)"
+                            srcset="https://github-readme-stats.vercel.app/api?username=prateek-bka&theme=radical ">
+                        <img alt="Shows Prateek's GitHub Stats."
+                            src="https://github-readme-stats.vercel.app/api?username=prateek-bka&theme=radical ">
+                    </picture>
+                     <a href="https://github.com/anuraghazra/github-readme-stats" id="github-stats-card">
+                    <picture>
+                        <source
+                            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-bka&layout=compact">
+                        <img alt="Shows Prateek's GitHub Stats."
+                            src="https://github-readme-stats.vercel.app/api?username=prateek-bka">
+                    </picture>
