@@ -85,22 +85,8 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<a href="https://git.io/streak-stats" id="github-streak-stats">
-                    <img src="https://github-readme-streak-stats.herokuapp.com?user=prateek-bka&theme=dark&hide_border=true"
-                        alt="">
-                </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-bka&show_icons=true&theme=dark&locale=en&layout=compact" alt="prateek-bka" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" id="github-top-langs">
-                    <picture>
-                        <source media="(prefers-color-scheme: radical)"
-                            srcset="https://github-readme-stats.vercel.app/api?username=prateek-bka&theme=radical ">
-                        <img alt="Shows Prateek's GitHub Stats."
-                            src="https://github-readme-stats.vercel.app/api?username=prateek-bka&theme=radical ">
-                    </picture>
-                     <a href="https://github.com/anuraghazra/github-readme-stats" id="github-stats-card">
-                    <picture>
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-bka&layout=compact">
-                        <img alt="Shows Prateek's GitHub Stats."
-                            src="https://github-readme-stats.vercel.app/api?username=prateek-bka">
-                    </picture>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-bka&show_icons=true&theme=dark&locale=en" alt="prateek-bka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-bka&theme=dark" alt="prateek-bka" /></p>
