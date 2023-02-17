@@ -28,7 +28,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 👨‍💻 All of my projects are available at [https://prateek-bka.github.io/](https://prateek-bka.github.io/)
 
-- 📝 I regularly write articles on [Dev.to]((https://dev.to/prateekbka))
+- 📝 I regularly write articles on ![Dev.to](https://dev.to/prateekbka)
 
 - 📫 How to reach me **prateek.bka@gmail.com**
 
