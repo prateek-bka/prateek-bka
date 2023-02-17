@@ -1,7 +1,28 @@
-<h1 align="center">Hi 👋, I'm Prateek Agrawal</h1>
-<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi 👋 I'm Prateek Agrawal
+    <h1 align='center'>
+    <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
+<!--         [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&pause=1000&color=352A91&background=D2C7BA00&center=true&vCenter=true&multiline=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Prateek+Agrawal;Full+Stack+Web+Developer;React+JS+%7C+Express+JS+%7C+MongoDB+%7C+Node+JS;HTML+%7C+CSS+%7C+Javascript)](https://git.io/typing-svg) -->
+   
+   <img 
+src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" width="70%" height="370px"/>
+   
+  
+    
+</h1>
+  
+<!----------------------------------- About Section ------------------------------------>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-bka&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-bka" /> </p>
+<h3>
+     - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+     <br />
+     <br />
+    - 💬 Ask me about React.js, Node.js, JavaScript, HTML, CSS, Data Structures & Algorithms
+
+</h3>  
+  
+ <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek-bka" alt="prateek-bka" /></a> </p>
 
