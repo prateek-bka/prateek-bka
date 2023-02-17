@@ -26,7 +26,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek-bka" alt="prateek-bka" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://prateek-bka.github.io/](https://prateek-bka.github.io/)
+- 👨‍💻 All of my projects are available at [https://dev.to/prateekbka](https://dev.to/prateekbka)
 
 - 📝 I regularly write articles on ![Dev.to](https://dev.to/prateekbka)
 
