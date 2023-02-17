@@ -18,9 +18,17 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
      - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
      <br />
      <br />
-    
-   
-    
+     - 💬 Ask me about React.js | Node.js | Data Structures & Algorithms | MERN Stack
+     <br />
+     <br />
+     - 📫 How to reach me: prateek.bka@gmail.com
+     <br />
+     <br />
+     - 👨‍💻 All of my projects are available at https://prateek-bka.github.io/
+     <br />
+     <br />
+     - 📝 I regularly write articles on https://dev.to/prateekbka
+
 </h3>
 
 <br>
