@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=76&lines=%F0%9F%91%8B%20Hi%20I'm%20Prateek%20Agrawal;MERN%20%7C%20Next.js%20%7C%20TypeScript;DevOps%20%7C%20CI%2FCD%20Enthusiast" alt="Prateek's Introduction"/>
+</h1>
+
 ## 👨‍💻 About Me
 
 I’m **Prateek Agrawal** (he/him), a passionate **Full Stack Developer** and **DevOps Engineer**, building **scalable web applications** and **optimized APIs**. I love automating CI/CD pipelines with **Docker** & **Kubernetes**, and writing clean, maintainable code in **TypeScript**, **Node.js**, and **React**.
