@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F8ECD&background=FFFFFF00&width=600&height=60&lines=Hi+👋+I%27m+Prateek+Agrawal;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;DevOps+%26+CI%2FCD+Enthusiast" alt="Typing SVG"/>
 </p>
 
@@ -132,3 +132,4 @@ I’m **Prateek Agrawal** (he/him), a passionate **Full Stack Developer** and **
   <a href="mailto:prateek.bka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/prateekbka" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
+](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F8ECD&background=FFFFFF00&width=600&height=60&lines=Hi+👋+I%27m+Prateek+Agrawal;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;DevOps+%26+CI%2FCD+Enthusiast)
