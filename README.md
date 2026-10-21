@@ -1,141 +1,129 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=76&lines=%F0%9F%91%8B%20Hi%20I'm%20Prateek%20Agrawal;MERN%20%7C%20Next.js%20%7C%20TypeScript;DevOps%20%7C%20CI%2FCD%20Enthusiast" alt="Prateek's Introduction"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=70&lines=Hi%2C+I'm+Prateek+Agrawal+%F0%9F%91%8B;Senior+Software+Engineer+%40+a21.ai;Full-Stack+%C2%B7+Generative+AI+%C2%B7+Cloud;Turning+LLMs+into+production+systems" alt="Prateek Agrawal"/>
 </h1>
 
-## 👨‍💻 About Me
-
-I’m **Prateek Agrawal** (he/him), a passionate **Full Stack Developer** and **DevOps Engineer**, building **scalable web applications** and **optimized APIs**. I love automating CI/CD pipelines with **Docker** & **Kubernetes**, and writing clean, maintainable code in **TypeScript**, **Node.js**, and **React**.
-
-- 🔭 Building web apps with **Next.js**, **Express** & **MongoDB**
-- ⚡ Skilled in **MERN Stack**, **TypeScript**, **GraphQL**, **RESTful APIs**, and **microservices**  
-- 📈 Focused on performance tuning, API optimization, and end‑to‑end test automation (Cypress/Playwright)  
-- 🚀 Automating CI/CD with **Docker**, **Kubernetes**, and **GitLab CI**  
-- 📝 I regularly share DevTips on [Dev.to](https://dev.to/prateekbka)  
-- 📫 Reach me at: [prateek.bka@gmail.com](mailto:prateek.bka@gmail.com)  
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-  </a>
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  </a>
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-  </a>
-  <a href="https://docs.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
-  </a>
-  <a href="https://docs.npmjs.com/" target="_blank">
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  </a>
-  <a href="https://docs.github.com/en" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github"/>
-  </a>
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux"/>
-  </a>
-  <a href="https://mui.com/getting-started/installation/" target="_blank">
-    <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui"/>
-  </a>
-  <a href="https://chakra-ui.com/docs/getting-started" target="_blank">
-    <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-3BC7BD?style=flat-square&logo=chakraui"/>
-  </a>
-  <a href="https://styled-components.com/docs" target="_blank">
-    <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components"/>
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
-  </a>
-  <a href="https://ui.shadcn.com/docs" target="_blank">
-    <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn--ui-000000?style=flat-square"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-  </a>
-  <a href="https://kubernetes.io/docs/home/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
-    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-  </a>
-  <a href="https://docs.cypress.io" target="_blank">
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress"/>
-  </a>
-  <a href="https://playwright.dev/docs/intro" target="_blank">
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright"/>
-  </a>
-  <a href="https://jestjs.io/docs/getting-started" target="_blank">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest"/>
-  </a>
-  <a href="https://graphql.org/learn/" target="_blank">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql"/>
-  </a>
+  <a href="https://linkedin.com/in/prateek-bka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prateek.bka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dev.to/prateekbka"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://x.com/prateekbka"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
+---
+
+### 👨‍💻 About me
+
+**Senior Software Engineer at [a21.ai](https://a21.ai)** with **5+ years** building full-stack products, now focused on
+**AI-powered enterprise platforms** for clients across India, the US, and the Middle East.
+
+I take Generative AI from prototype to production: LLM pipelines, RAG, AI-driven workflows, and
+the secure, scalable backends and dashboards around them.
+
+- 🧠 **Now:** LLM scoring and summarization pipelines, multi-stage AI validation, document-intelligence workflows
+- 🏗️ **Strength:** Node.js / React / TypeScript systems on AWS & Azure: microservices, RBAC, async jobs, observability
+- ☁️ **Certified:** AWS Generative AI Developer – Professional · AWS Solutions Architect – Associate
+- 📍 New Delhi, India · working with teams across time zones · always up for a conversation about AI products
 
 ---
 
-## 🚀 Key Skills & Expertise
+### 🚀 What I'm building at a21.ai
 
-- **Full Stack Web Development:** MERN (MongoDB, Express, React, Node.js), Next.js, TypeScript  
-- **API Design & Optimization:** REST, GraphQL, serverless functions  
-- **DevOps & CI/CD:** Docker, Kubernetes, GitLab CI/CD  
-- **Testing & QA:** Cypress, Playwright, Jest
-- **Cloud & Infrastructure:** AWS EC2, S3  
-- **Collaboration & Agile:** Git workflows, code reviews, Jira
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-bka&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-bka&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+| Area | What it does | Stack |
+|---|---|---|
+| **AI news intelligence** | Multi-source collection (RSS + search APIs + LLM research), dedupe, 5-dimension LLM scoring, auto-summaries, daily feed. Runs at ~$3/month. | Node.js · Azure OpenAI · PostgreSQL · cron |
+| **Document intelligence** | Email-in reports → blob storage → AI extraction → scored, role-gated reports | Express · React + TS · Azure Service Bus & Blob |
+| **AI data agents** | Browser automation plus a 7-stage LLM validation pipeline for reliable data collection | Python · Playwright · LLMs |
+| **Enterprise platform core** | JWT + OTP auth, permission-based RBAC, background jobs, telemetry | Node.js · Sequelize · App Insights |
 
 ---
 
-## 📫 Let’s Connect
+### 📈 Track record
 
-## 📫 Let’s Connect  
+- **99.9% uptime** on production apps through full-stack debugging and root-cause fixes
+- **30%+ faster database responses** with strategic MongoDB indexing
+- **20% higher user engagement** from performance-focused React UI work
+- Secured multi-service credentials by deploying **HashiCorp Vault on AWS**
+- Built **Cypress E2E + API test suites** that raised coverage across the stack
+
+<sub>a21.ai (2025–now) · NTWIST (2023–25) · Glow and Grow (2021–23) · Innodata (2020–21) · B.Tech, Manipal Institute of Technology</sub>
+
+---
+
+### 🛠️ Tech stack
+
+**AI / LLM**<br/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-22D3EE?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Perplexity-1F1F1F?style=flat-square&logo=perplexity&logoColor=white"/>
+
+**Backend**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+
+**Cloud & DevOps**<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black"/>
+
+**Testing**<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+
+---
+
+### 📌 Featured projects
+
+| Project | What | Stack |
+|---|---|---|
+| [**DataPulse**](https://github.com/prateek-bka/datapulse-analytics) | Upload a CSV, get interactive sales analytics and visualizations | React · Node.js · Express |
+| [**ABN Lens**](https://github.com/prateek-bka/abn-lens) | Search and explore Australian Business Number registry records | React · TypeScript · Vite |
+| [**FurnitureTry**](https://github.com/prateek-bka/furnituretry) | Furniture & home-décor marketplace · [live](https://furnituretry.vercel.app/) | React · Node.js · MongoDB |
+| [**GlamKart**](https://github.com/prateek-bka/glamkart) | Beauty e-commerce storefront · [live](https://myglammm-clone.netlify.app/) | React · JavaScript |
+| [**CoinShift**](https://github.com/prateek-bka/coinshift) | Real-time cryptocurrency converter · [live](https://cryptocurrency-convert.netlify.app/) | React · REST APIs |
+| [**CoinWatch**](https://github.com/prateek-bka/coinwatch) | Live crypto market tracker · [live](https://x-crypto.netlify.app/) | React · REST APIs |
+
+---
+
+### ✍️ Writing
+
+I write about RAG, Node.js authorization, observability, and frontend architecture on
+[**Dev.to**](https://dev.to/prateekbka) and [**LinkedIn**](https://linkedin.com/in/prateek-bka).
+
+---
+
+### 📊 GitHub stats
 
 <p align="center">
-  <a href="mailto:prateek.bka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/prateekbka" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/prateek-bka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prateek-bka&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=prateek-bka&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-bka&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&langs_count=8" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Building AI products or scaling an engineering team? Let's talk.</b><br/>
+  📩 <a href="mailto:prateek.bka@gmail.com">prateek.bka@gmail.com</a>
 </p>
