@@ -26,7 +26,7 @@ the secure, scalable backends and dashboards around them.
 
 ---
 
-### 🚀 What I'm building at a21.ai
+### 🚀 Recent work
 
 | Area | What it does | Stack |
 |---|---|---|
